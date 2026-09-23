@@ -99,6 +99,13 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
+    # 发现雷达：财经快讯源，比热榜更早出现价格、销量、数据的反常信号
+    - id: "cls-telegraph"
+      name: "财联社电报"
+      expected_domain: "cls.cn"
+    - id: "wallstreetcn-quick"
+      name: "华尔街见闻快讯"
+      expected_domain: "wallstreetcn.com"
 
 
 
